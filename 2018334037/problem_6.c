@@ -33,6 +33,7 @@ int main()
      for(i=0;i<N;i++){
        if(Div[i]==max){
         printf("\n%d",Num[i]);
+           return 0;
        }
      }
      return 0;
