@@ -37,6 +37,8 @@ int main()
                 office[j + 1] = temp;
             }
         }
+    
+    printf("\n \n \n");
 
 
 
